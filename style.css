@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.box{
+    display: grid;
+    background-color: rgb(160, 167, 167);
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    
+    
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.hight{
+    position: relative;
+    bottom: 150px;
+}
+#weight{
+    position: relative;
+    top: 50px;
+}
+.button{
+    position: relative;
+    top: 50px;
+    color: rgb(20, 35, 133);
+}
